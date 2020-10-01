@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2020-10-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/10/01/leetcode/0001-Two-Sum/</loc>
     
     <lastmod>2020-10-01</lastmod>
@@ -29,13 +36,6 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -44,13 +44,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://example.com/tags/Hexo/</loc>
-    <lastmod>2020-10-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://example.com/tags/%E6%95%B0%E7%BB%84/</loc>
@@ -66,17 +59,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/Hexo/</loc>
+    <lastmod>2020-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://example.com/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
+    <loc>http://example.com/categories/leetcode/</loc>
     <lastmod>2020-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/leetcode/</loc>
+    <loc>http://example.com/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2020-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
